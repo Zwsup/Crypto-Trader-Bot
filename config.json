@@ -1,0 +1,26 @@
+{
+  "symbols_to_scan": [
+    "BTC/USDT", "ETH/USDT", "SOL/USDT", "AVAX/USDT", 
+    "DOGE/USDT", "SHIB/USDT", "PEPE/USDT", "FLOKI/USDT", "WIF/USDT",
+    "SUI/USDT", "SEI/USDT", "APT/USDT", "INJ/USDT", 
+    "FET/USDT", "RNDR/USDT", "OP/USDT", "ARB/USDT",
+    "NEAR/USDT", "XRP/USDT"
+  ],
+  "timeframe": "1m",
+  "initial_balance": 1000.0,
+  "trade_amount_usd": 100.0,
+  "commission_rate": 0.001,
+  "max_open_trades": 5,
+  
+  "buy_trigger_pct_up": 0.35, 
+  "take_profit_activation_pct": 0.5,
+  "trailing_stop_pct": 0.25,
+  "hard_stop_loss_pct": 1.5,
+  "trade_timeout_minutes": 30,
+
+  "rvol_multiplier": 1.5, 
+  "btc_safe_drop_limit_pct": -0.8,
+  "cooldown_minutes": 15,
+  
+  "poll_interval_sec": 3
+}
