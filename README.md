@@ -1,4 +1,4 @@
-# Crypto Breakout & Momentum Scanner Bot (Pro Edition)
+# Crypto Breakout & Momentum Scanner Bot
 
 Yüksek frekanslı (scalping) kripto para piyasaları için geliştirilmiş, kurumsal düzeyde risk filtreleri ve gerçek zamanlı CustomTkinter GUI arayüzü içeren masaüstü ticaret botu.
 
